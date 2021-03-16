@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 secrets.py
 
+Original Files/.fseventsd/no_log
+Original Files/.metadata_never_index
+Original Files/.Trashes
